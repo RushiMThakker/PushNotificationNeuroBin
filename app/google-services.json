@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "671759495302",
+    "project_id": "neurobinkey1107"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671759495302:android:ab6251b21024c073",
+        "android_client_info": {
+          "package_name": "org.neurobin.aapps.pushnotificationgcmclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWkS9C-yqoWCu5gBS_MXrX7MxSPmnK24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
